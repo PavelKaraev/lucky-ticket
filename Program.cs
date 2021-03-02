@@ -80,7 +80,7 @@ namespace LuckyTicket
             }
             else
             {
-                Console.WriteLine($"Oh... Better luck next time!{firstPiece}:{secondPiece}");
+                Console.WriteLine($"Oh... Better luck next time!");
 
                 Thread.Sleep(2000);
                 Console.Clear();
